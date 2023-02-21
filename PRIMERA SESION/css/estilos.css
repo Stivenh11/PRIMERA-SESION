@@ -1,0 +1,17 @@
+.barra_menu{
+    display: flex;
+}
+.img_logo{
+   width: 30px;
+   height: 30px;
+
+}
+.flex-sm-fill{
+    color: black;
+}
+.img-fluid{
+    background-image: url(/IMG/th.jpg) no-repeat;
+    width: 100%;
+    height: 100%;
+    
+} 
